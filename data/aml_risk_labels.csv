@@ -1,0 +1,16 @@
+transaction_id,risk_score,risk_label,aml_flag,watchlist_match
+TXN001,12,Low,0,0
+TXN002,91,Critical,1,1
+TXN003,8,Low,0,0
+TXN004,95,Critical,1,1
+TXN005,15,Low,0,0
+TXN006,97,Critical,1,1
+TXN007,10,Low,0,0
+TXN008,88,High,1,1
+TXN009,9,Low,0,0
+TXN010,93,Critical,1,1
+TXN011,20,Low,0,0
+TXN012,18,Low,0,0
+TXN013,99,Critical,1,1
+TXN014,11,Low,0,0
+TXN015,94,Critical,1,1
