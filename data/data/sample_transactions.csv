@@ -1,0 +1,16 @@
+transaction_id,account_id,amount,transaction_type,merchant_category,hour_of_day,day_of_week,country,is_fraud
+TXN001,ACC101,250.00,POS,Retail,14,2,IN,0
+TXN002,ACC102,15000.00,Online,Electronics,2,6,NG,1
+TXN003,ACC103,80.50,POS,Grocery,10,1,IN,0
+TXN004,ACC104,9999.99,Wire Transfer,Unknown,3,0,RU,1
+TXN005,ACC105,120.00,ATM,Cash Withdrawal,11,3,IN,0
+TXN006,ACC106,45000.00,Online,Crypto,1,5,CN,1
+TXN007,ACC107,300.00,POS,Restaurant,19,4,IN,0
+TXN008,ACC108,5500.00,Wire Transfer,Unknown,4,6,NG,1
+TXN009,ACC109,60.00,POS,Grocery,9,2,IN,0
+TXN010,ACC110,22000.00,Online,Electronics,2,0,RU,1
+TXN011,ACC111,450.00,ATM,Cash Withdrawal,15,3,IN,0
+TXN012,ACC112,180.00,POS,Retail,13,1,IN,0
+TXN013,ACC113,88000.00,Wire Transfer,Unknown,3,6,CN,1
+TXN014,ACC114,95.00,POS,Restaurant,20,5,IN,0
+TXN015,ACC115,12000.00,Online,Crypto,1,0,NG,1
